@@ -1,0 +1,8 @@
+# FACEBOOK WEB CLONE
+
+This project still on progress
+
+## TECH STACK
+
+- FRONTEND = REACTJS
+- BACKEND = EXPRESS, MONGODB
